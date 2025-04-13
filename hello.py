@@ -6,4 +6,6 @@ print("...................")
 print("From New Direcotry")
 print("...................")
 print("...................")
+print("From New Direcotry")
+print("...................")
 
